@@ -1,0 +1,18 @@
+{
+  "name": "javascript-basic-koans",
+  "version": "0.0.1",
+  "description": "This is Javascript Koans for beginners.",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Weto Olaguer",
+  "license": "MIT",
+  "devDependencies": {
+    "chai": "*",
+    "mocha": "*"
+  }
+}
